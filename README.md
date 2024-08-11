@@ -1,8 +1,7 @@
 ![I am sheikh-abdur-rakib](https://github.com/sheikh-abdur-rakib/sheikh-abdur-rakib/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi 👋, I'm Sheikh Abdur Rakib</h1>
+<h3 align="center">Programmer | Web Designer | Speed Learner</h3>
 
 <div align="center">
 
