@@ -1,5 +1,4 @@
-![I am sheikh-abdur-rakib](https://github.com/sheikh-abdur-rakib/sheikh-abdur-rakib/blob/main/code.png)
-
+![I am sheikh-abdur-rakib](https://github.com/sheikh-abdur-rakib/About-Me/commit/fa3ab4f054922dd2206d1750203aa2b248eb59f2#diff-41c6c8a01f1fd8a2d0ad68b4e641cb19362bfb581cdaca8ecd81f8d432c2dd39)
 <h1 align="center">Hi 👋, I'm Sheikh Abdur Rakib</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
 
@@ -23,7 +22,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="(https://www.facebook.com/sheikh.rakib.505/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="(https://www.facebook.com/sheikh.rakib.505/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="(https://www.linkedin.com/in/rakib1709/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh-abdur-rakib" height="30" width="40" /></a>
 <a href="https://codepen.io/sheikh-abdur-rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sheikh-abdur-rakib" height="30" width="40" /></a>
 </p>
@@ -55,10 +54,8 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/weblitical)
+[![ Movies-App](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/Java-Project)
+[![ Countdown-Time](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/100_plus_C_Problems)
 
 <p align="left">
   <a href="https://github.com/sheikh-abdur-rakib?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
