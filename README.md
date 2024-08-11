@@ -1,4 +1,4 @@
-![I am sheikh-abdur-rakib](https://github.com/sheikh-abdur-rakib/About-Me/commit/fa3ab4f054922dd2206d1750203aa2b248eb59f2#diff-41c6c8a01f1fd8a2d0ad68b4e641cb19362bfb581cdaca8ecd81f8d432c2dd39)
+https://raw.githubusercontent.com/sheikh-abdur-rakib/About-Me/fa3ab4f054922dd2206d1750203aa2b248eb59f2/rakib/code.jpg
 <h1 align="center">Hi 👋, I'm Sheikh Abdur Rakib</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
 
